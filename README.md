@@ -17,8 +17,8 @@
 - Click [Restart Game] **restarts the game**
 
 > **if User Guess**  Matches... 
-        **Correctly** "You Win" and SCORE will reset!
-        **Incorrectly** "Guess Left:(9)" will decreament by 1--"       
+* Correctly** "You Win" and SCORE will reset!
+* Incorrectly** "Guess Left:(9)" will decreament by 1--"       
 
 
 
