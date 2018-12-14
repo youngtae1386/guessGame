@@ -2,7 +2,7 @@
 
 ## File
 
-* [`GuessGame`](\guessGame.html)
+* [`GuessGame`](\index.html)
 
 ## Instructions
 * Start a Page - Alert message
@@ -18,7 +18,7 @@
 
 > **if User Guess**  Matches... 
 * Correctly** "You Win" and SCORE will reset!
-* Incorrectly** "Guess Left:(9)" will decreament by 1--"       
+* Incorrectly** "Guess Left:(9)" will decreament by 1--".       
 
 
 
